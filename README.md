@@ -1,40 +1,221 @@
-<h1 align="center">Hi 👋, I'm YASWANTH PEDAPUDI</h1>
-<h3 align="center">An Electronics & Communication Engineering Undergraduate passionate about Embedded Systems, IoT, and Robotics</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaswanth1230&label=Profile%20views&color=0e75b6&style=flat" alt="yaswanth1230" /> </p>
+<img src="https://drive.google.com/uc?export=view&id=1gj6936pELPGlqIf3VhOrwPwntFw3aABC" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaswanth1230" alt="yaswanth1230" /></a> </p>
+# ⚡ YASWANTH PEDAPUDI ⚡
 
-- 🔭 I’m currently working on [Embedded Systems and IoT Projects](https://github.com/yaswanth1230)
+### Electronics & Communication Engineer • Embedded Systems • IoT • Robotics
 
-- 🌱 I’m currently learning **Embedded Systems, IoT, PCB Design, Python and Microcontrollers**
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Digital+Universe...;Embedded+Systems+Engineer;IoT+Innovator;Arduino+%7C+ESP8266+Developer;Building+Ideas+Into+Reality" />
 
-- 👯 I’m looking to collaborate on **Arduino, IoT and Embedded Systems Projects**
+<br>
 
-- 🤝 I’m looking for help with **Advanced Embedded Systems and PCB Design**
+<img src="https://komarev.com/ghpvc/?username=yaswanth1230&label=PROFILE+VISITORS&color=blueviolet&style=for-the-badge"/>
 
-- 👨‍💻 All of my projects are available at [https://yaswanthpedapudiportfolio.lovable.app/](https://yaswanthpedapudiportfolio.lovable.app/)
+</div>
 
-- 💬 Ask me about **Arduino, ESP8266, IoT, Sensors, Embedded Systems and Python**
+---
 
-- 📫 How to reach me **yaswanthyashpeddapudi@gmail.com**
+# 🛰 System Status
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1RAeoi-7AteJCc1qDQGLlPFEqqgB8NlWj/edit?usp=sharing&ouid=117823862552708540726&rtpof=true&sd=true](https://docs.google.com/document/d/1RAeoi-7AteJCc1qDQGLlPFEqqgB8NlWj/edit?usp=sharing&ouid=117823862552708540726&rtpof=true&sd=true)
+```diff
++ STATUS      : ONLINE
++ ROLE        : ECE UNDERGRADUATE
++ SPECIALITY  : EMBEDDED SYSTEMS
++ DOMAIN      : INTERNET OF THINGS
++ INTERESTS   : ROBOTICS & AUTOMATION
++ MISSION     : BUILDING INTELLIGENT SOLUTIONS
+```
 
-- ⚡ Fun fact **I enjoy building real-world automation projects using sensors and microcontrollers.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yaswanthhh1230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yaswanthhh1230" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yaswanth pedapudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaswanth pedapudi" height="30" width="40" /></a>
-<a href="https://fb.com/yaswanth yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yaswanth yash" height="30" width="40" /></a>
-<a href="https://instagram.com/yashhh._1230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashhh._1230" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yaswanth1230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yaswanth1230" height="30" width="40" /></a>
+# 🌌 About Me
+
+```yaml
+Name: Yaswanth Pedapudi
+
+Degree:
+  B.Tech - Electronics & Communication Engineering
+
+Interests:
+  - Embedded Systems
+  - Internet of Things
+  - Robotics
+  - Automation
+  - PCB Design
+
+Currently Learning:
+  - Advanced Embedded Systems
+  - IoT Architecture
+  - Python
+  - Microcontrollers
+
+Goal:
+  - Build Innovative Hardware + Software Solutions
+```
+
+---
+
+# 🚀 Current Mission
+
+⚡ Developing Embedded & IoT Projects
+
+🌱 Exploring PCB Design & Microcontrollers
+
+🤝 Collaborating on Arduino & ESP8266 Projects
+
+🔬 Experimenting with Sensors & Automation
+
+📡 Building Smart Embedded Solutions for Real-World Applications
+
+---
+
+# 🌐 Portfolio
+
+<div align="center">
+
+### 🚀 Explore My Portfolio
+
+<a href="https://yaswanthpedapudiportfolio.lovable.app/" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/yaswanth-pedapudi" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://x.com/yaswanthhh1230?s=21" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://www.instagram.com/yashhh._30/?hl=en" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://github.com/yaswanth1230" target="_blank">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswanth1230&show_icons=true&locale=en&layout=compact" alt="yaswanth1230" /></p>
+📫 **yaswanthyashpeddapudi@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaswanth1230&show_icons=true&locale=en" alt="yaswanth1230" /></p>
+📄 **Resume**  
+https://docs.google.com/document/d/1RAeoi-7AteJCc1qDQGLlPFEqqgB8NlWj/edit
+
+</div>
+
+---
+
+# ⚙️ Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,arduino,git,github,vscode"/>
+
+</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Embedded_Systems-Active-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IoT-Learning-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PCB_Design-Exploring-orange?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🏆 Achievement Matrix
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yaswanth1230&theme=radical&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaswanth1230&show_icons=true&theme=radical"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth1230&layout=compact&theme=radical"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth1230&theme=radical"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaswanth1230&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🎯 Engineering Domains
+
+<div align="center">
+
+| Domain | Expertise |
+|----------|----------|
+| Embedded Systems | ⚡⚡⚡⚡⚡ |
+| IoT | ⚡⚡⚡⚡ |
+| Arduino | ⚡⚡⚡⚡⚡ |
+| Python | ⚡⚡⚡ |
+| Robotics | ⚡⚡⚡ |
+| PCB Design | ⚡⚡ |
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Turning Ideas Into Intelligent Embedded Solutions ⚡
+
+### 🚀 Future Electronics Engineer 🚀
+
+<img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IOT-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ROBOTICS-orange?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=yaswanth1230&label=THANKS+FOR+VISITING&color=blueviolet&style=for-the-badge"/>
+
+</div>
