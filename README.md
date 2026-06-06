@@ -1,12 +1,14 @@
 <div align="center">
 
-# ⚡ YASWANTH PEDAPUDI ⚡
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=false&width=800&lines=⚡+YASWANTH+PEDAPUDI+⚡" />
 
 ### Electronics & Communication Engineer • Embedded Systems • IoT • Robotics
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Digital+Universe...;Embedded+Systems+Engineer;IoT+Innovator;Arduino+%7C+ESP8266+Developer;Building+Ideas+Into+Reality" />
-
 <br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Welcome+to+my+Digital+Universe...;Embedded+Systems+Engineer;IoT+Innovator;Arduino+%7C+ESP8266+Developer;Building+Ideas+Into+Reality" />
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=yaswanth1230&label=PROFILE+VISITORS&color=blueviolet&style=for-the-badge"/>
 
