@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://drive.google.com/uc?export=view&id=1gj6936pELPGlqIf3VhOrwPwntFw3aABC" width="100%"/>
-
 # ⚡ YASWANTH PEDAPUDI ⚡
 
 ### Electronics & Communication Engineer • Embedded Systems • IoT • Robotics
@@ -140,20 +138,38 @@ https://docs.google.com/document/d/1RAeoi-7AteJCc1qDQGLlPFEqqgB8NlWj/edit
 # 🏆 Achievement Matrix
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yaswanth1230&theme=radical&no-frame=true&row=1&column=7"/>
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="120"/>
 </p>
+
+<div align="center">
+
+🏆 Building Skills Daily
+
+🚀 Creating Embedded Projects
+
+⚡ Learning New Technologies
+
+</div>
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaswanth1230&show_icons=true&theme=radical"/>
+📈 Consistently Learning & Building
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth1230&layout=compact&theme=radical"/>
+⚡ Embedded Systems Development
 
-</p>
+📡 Internet of Things Projects
+
+🤖 Robotics Exploration
+
+🐍 Python Programming
+
+🚀 Continuous Growth Mindset
+
+</div>
 
 ---
 
@@ -161,7 +177,7 @@ https://docs.google.com/document/d/1RAeoi-7AteJCc1qDQGLlPFEqqgB8NlWj/edit
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth1230&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth1230&theme=tokyonight"/>
 
 </p>
 
@@ -171,7 +187,7 @@ https://docs.google.com/document/d/1RAeoi-7AteJCc1qDQGLlPFEqqgB8NlWj/edit
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaswanth1230&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaswanth1230&theme=tokyo-night"/>
 
 </p>
 
